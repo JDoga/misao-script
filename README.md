@@ -1,2 +1,2 @@
 # misao-script
-Script del juego Misao en japonés + traducción y análisis
+Script del juego Misao en japonés.
